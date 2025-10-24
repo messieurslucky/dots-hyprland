@@ -1,18 +1,10 @@
 # dots-hyprland
 
-Hey there!  
-
-These are my personal **dotfiles** – configs for all the stuff I use on my Linux setup (Hyprland, terminal, apps, etc).  
-
-> ⚠️ Heads up: these are made specifically for **my setup**, so they might break things if you just copy them blindly.  
+> ⚠️ Heads up:  
+This config is not made to be used by **anyone** besides myself.  
+If you want to use it you will have to make your own changes.  
 
 Feel free to **borrow, or steal ideas**, but don’t expect them to work perfectly on your machine out of the box.  
-
----
-
-## What’s Inside
-- `.config/` – All my app configs
-- Scripts, themes, and little tweaks I use daily
 
 ---
 
