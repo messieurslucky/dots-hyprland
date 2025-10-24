@@ -35,6 +35,14 @@ vesktop
 waybar  
 yazi  
 zsh 
+zsh-syntax-highlighting
+zsh-autocomplete
+adw-gtk-theme
+pavucontrol
+ttf-jetbrains-mono-nerd
+librewolf
+python-pywalfox-librewolf
+swww
 
 ---
 
