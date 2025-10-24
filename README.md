@@ -46,6 +46,7 @@ ttf-jetbrains-mono-nerd
 librewolf  
 python-pywalfox-librewolf  
 swww  
+grimblast-git  
 
 ---
 
