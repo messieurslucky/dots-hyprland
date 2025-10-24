@@ -1,7 +1,7 @@
 # dots-hyprland
 
 > ⚠️ Heads up:  
-This config is not made to be used by **anyone** besides myself.  
+This config is not intended to be used by **anyone** besides myself.  
 If you want to use it you will have to make your own changes.  
 
 Feel free to **borrow, or steal ideas**, but don’t expect them to work perfectly on your machine out of the box.  
