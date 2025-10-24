@@ -20,9 +20,9 @@ matugen
 ohmyposh  
 ohmyzsh  
 qt6ct-kde  
-breeze-icons
-breeze5
-breeze
+breeze-icons  
+breeze5  
+breeze  
 qt5ct-kde  
 rofi  
 swappy  
