@@ -16,6 +16,28 @@ Feel free to **borrow, or steal ideas**, but don’t expect them to work perfect
 
 ---
 
+## Personal Installs
+btop  
+dunst  
+gtk4  
+gtk3  
+hyprlock  
+hyprsunset  
+kitty  
+matugen  
+ohmyposh  
+ohmyzsh  
+qt6-base  
+qt5-base  
+rofi  
+swappy  
+vesktop  
+waybar  
+yazi  
+zsh 
+
+---
+
 ## How to Use
 1. Clone the repo somewhere safe:  
    ```bash
