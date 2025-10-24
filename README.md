@@ -34,7 +34,7 @@ swappy
 vesktop  
 waybar  
 yazi  
-zsh 
+zsh  
 zsh-syntax-highlighting  
 zsh-autocomplete  
 adw-gtk-theme  
