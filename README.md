@@ -27,8 +27,11 @@ kitty
 matugen  
 ohmyposh  
 ohmyzsh  
-qt6-base  
-qt5-base  
+qt6ct-kde  
+breeze-icons
+breeze5
+breeze
+qt5ct-kde  
 rofi  
 swappy  
 vesktop  
