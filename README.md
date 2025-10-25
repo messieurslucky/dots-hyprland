@@ -39,6 +39,8 @@ librewolf
 python-pywalfox-librewolf  
 swww  
 grimblast-git  
+openresolv  
+wireguard-tools  
 
 ---
 
