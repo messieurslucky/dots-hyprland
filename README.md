@@ -41,6 +41,8 @@ swww
 grimblast  
 openresolv  
 wireguard-tools  
+cliphist  
+hypridle  
 
 ---
 
