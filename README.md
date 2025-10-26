@@ -38,7 +38,7 @@ ttf-jetbrains-mono-nerd
 librewolf  
 python-pywalfox-librewolf  
 swww  
-hyprshot  
+grimblast
 openresolv  
 wireguard-tools  
 
