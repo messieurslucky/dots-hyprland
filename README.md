@@ -8,12 +8,17 @@ Feel free to **borrow, or steal ideas**, but don’t expect them to work perfect
 
 ---
 
-## Dependencies
 <details>
-  <summary>Install dependencies with paru</summary>
-
+  <summary>Install packages with paru</summary>
   ```bash
-  paru -S btop dunst gtk4 gtk3 hyprlock hyprsunset kitty matugen ohmyposh ohmyzsh qt6ct-kde breeze-icons breeze5 breeze qt5ct-kde rofi swappy vesktop waybar yazi zsh zsh-syntax-highlighting zsh-autocomplete adw-gtk-theme pavucontrol ttf-jetbrains-mono-nerd librewolf python-pywalfox-librewolf swww grimblast-git openresolv wireguard-tools cliphist hypridle
+  paru -S btop dunst gtk4 gtk3 hyprlock hyprsunset kitty matugen \
+  ohmyposh ohmyzsh qt6ct-kde breeze-icons breeze5 breeze qt5ct-kde \
+  rofi swappy vesktop waybar yazi zsh zsh-syntax-highlighting \
+  zsh-autocomplete adw-gtk-theme pavucontrol ttf-jetbrains-mono-nerd \
+  librewolf python-pywalfox-librewolf swww grimblast-git openresolv \
+  wireguard-tools cliphist hypridle
+</details> ```
+</details> ```
 
 ---
 
