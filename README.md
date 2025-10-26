@@ -29,7 +29,9 @@ wireguard-tools cliphist hypridle
 
 ---
 
-## How to Use
-1. Clone the repo somewhere safe:  
+## How to use
+1. Install dependencies 
+2. Clone the repo somewhere safe:  
    ```bash
    git clone https://github.com/messieurslucky/dots-hyprland.git
+3. Move cloned files to the appropriate spaces
