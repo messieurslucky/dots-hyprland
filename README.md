@@ -18,7 +18,6 @@ Feel free to **borrow, or steal ideas**, but don’t expect them to work perfect
   librewolf python-pywalfox-librewolf swww grimblast-git openresolv \
   wireguard-tools cliphist hypridle
 </details> ```
-</details> ```
 
 ---
 
