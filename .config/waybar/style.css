@@ -9,26 +9,26 @@
 window#waybar {
     background: transparent;
     color: white;
+    border-radius: 12px;
 }
 
 tooltip {
   background: @background;
-  border: 1px solid @on_primary_container;
-  border-radius: 0px;
+  border-radius: 7px;
+  padding: 1px 3px;
 }
 tooltip label {
-  color: @primary_fixed_dim;
-  border-radius: 0px;
+  color: @secondary;
+  border-radius: 12px;
 }
 
 #workspaces button {
     background: @background;
-    color: @primary_fixed_dim;
+    color: @secondary;
     transition: 0.3s ease;
-    margin: 0px 5px;
-    padding: 0px 7px;
-    border: 1px solid @on_primary_container;
-    border-radius: 0px;
+    margin: 4px 4px;
+    padding: 0px 9px;
+    border-radius: 12px;
     box-shadow: none;
     text-shadow: none;
 }
@@ -36,9 +36,8 @@ tooltip label {
 #workspaces button.active {
 
     color: @outline;
-    padding: 0px 12px;
+    padding: 0px 13px;
     background: @on_background;
-    border-color: @secondary;
 }
 
 #tray,
@@ -46,10 +45,9 @@ tooltip label {
 #pulseaudio,
 #cpu,
 #memory {
-    margin: 0 17px;
+    margin: 4px 9px;
     background-color: @background;
-    color: @primary_fixed_dim;
-    border: 1px solid @on_primary_container;
-    padding: 5px 7px;
-    border-radius: 0px;
+    color: @secondary;
+    padding: 0px 11px;
+    border-radius: 10px;
 }
