@@ -18,7 +18,7 @@ Feel free to **borrow, or steal ideas**, but don’t expect them to work perfect
 ```sh
 ## Dependencies
 paru -S btop dunst gtk4 gtk3 hyprlock hyprsunset kitty matugen \
-ohmyposh ohmyzsh qt6ct-kde breeze-icons breeze5 breeze qt5ct-kde \
+oh-my-posh oh-my-zsh qt6ct-kde breeze-icons breeze5 breeze qt5ct-kde \
 rofi swappy vesktop-bin waybar yazi zsh \
 adw-gtk-theme pavucontrol ttf-jetbrains-mono-nerd \
 librewolf python-pywalfox-librewolf swww grimblast-git openresolv \
